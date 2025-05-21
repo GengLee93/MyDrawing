@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8709DEEF-9D52-408E-9776-CE30C794DAC6}|MyDrawing\\DrawingForm.csproj|c:\\users\\lizhe\\desktop\\ntut\\windows programming\\hw\\hw#2~7\\mydrawing\\mydrawing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8709DEEF-9D52-408E-9776-CE30C794DAC6}|MyDrawing\\DrawingForm.csproj|solutionrelative:mydrawing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8709DEEF-9D52-408E-9776-CE30C794DAC6}|MyDrawing\\DrawingForm.csproj|C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\mydrawing\\state\\pointerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8709DEEF-9D52-408E-9776-CE30C794DAC6}|MyDrawing\\DrawingForm.csproj|solutionrelative:mydrawing\\state\\pointerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8709DEEF-9D52-408E-9776-CE30C794DAC6}|MyDrawing\\DrawingForm.csproj|C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\mydrawing\\drawingmodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8709DEEF-9D52-408E-9776-CE30C794DAC6}|MyDrawing\\DrawingForm.csproj|solutionrelative:mydrawing\\drawingmodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8709DEEF-9D52-408E-9776-CE30C794DAC6}|MyDrawing\\DrawingForm.csproj|C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\mydrawing\\command\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8709DEEF-9D52-408E-9776-CE30C794DAC6}|MyDrawing\\DrawingForm.csproj|solutionrelative:mydrawing\\command\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8709DEEF-9D52-408E-9776-CE30C794DAC6}|MyDrawing\\DrawingForm.csproj|C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\mydrawing\\command\\drawshapecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8709DEEF-9D52-408E-9776-CE30C794DAC6}|MyDrawing\\DrawingForm.csproj|solutionrelative:mydrawing\\command\\drawshapecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8709DEEF-9D52-408E-9776-CE30C794DAC6}|MyDrawing\\DrawingForm.csproj|C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\mydrawing\\command\\deleteshapecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8709DEEF-9D52-408E-9776-CE30C794DAC6}|MyDrawing\\DrawingForm.csproj|solutionrelative:mydrawing\\command\\deleteshapecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8709DEEF-9D52-408E-9776-CE30C794DAC6}|MyDrawing\\DrawingForm.csproj|C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\mydrawing\\state\\drawingshapestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8709DEEF-9D52-408E-9776-CE30C794DAC6}|MyDrawing\\DrawingForm.csproj|solutionrelative:mydrawing\\state\\drawingshapestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\MyDrawing\\Form1.cs",
+              "RelativeDocumentMoniker": "MyDrawing\\Form1.cs",
+              "ToolTip": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\MyDrawing\\Form1.cs",
+              "RelativeToolTip": "MyDrawing\\Form1.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAA+wI4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:41:14.313Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommandManager.cs",
+              "DocumentMoniker": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\MyDrawing\\Command\\CommandManager.cs",
+              "RelativeDocumentMoniker": "MyDrawing\\Command\\CommandManager.cs",
+              "ToolTip": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\MyDrawing\\Command\\CommandManager.cs",
+              "RelativeToolTip": "MyDrawing\\Command\\CommandManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:59:28.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DrawingShapeState.cs",
+              "DocumentMoniker": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\MyDrawing\\State\\DrawingShapeState.cs",
+              "RelativeDocumentMoniker": "MyDrawing\\State\\DrawingShapeState.cs",
+              "ToolTip": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\MyDrawing\\State\\DrawingShapeState.cs",
+              "RelativeToolTip": "MyDrawing\\State\\DrawingShapeState.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAowGQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:52:23.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DrawShapeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\MyDrawing\\Command\\DrawShapeCommand.cs",
+              "RelativeDocumentMoniker": "MyDrawing\\Command\\DrawShapeCommand.cs",
+              "ToolTip": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\MyDrawing\\Command\\DrawShapeCommand.cs",
+              "RelativeToolTip": "MyDrawing\\Command\\DrawShapeCommand.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:16.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\MyDrawing\\DrawingModel\\Model.cs",
+              "RelativeDocumentMoniker": "MyDrawing\\DrawingModel\\Model.cs",
+              "ToolTip": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\MyDrawing\\DrawingModel\\Model.cs",
+              "RelativeToolTip": "MyDrawing\\DrawingModel\\Model.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAIwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:37:39.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteShapeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\MyDrawing\\Command\\DeleteShapeCommand.cs",
+              "RelativeDocumentMoniker": "MyDrawing\\Command\\DeleteShapeCommand.cs",
+              "ToolTip": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\MyDrawing\\Command\\DeleteShapeCommand.cs",
+              "RelativeToolTip": "MyDrawing\\Command\\DeleteShapeCommand.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:05:28.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointerState.cs",
+              "DocumentMoniker": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\MyDrawing\\State\\PointerState.cs",
+              "RelativeDocumentMoniker": "MyDrawing\\State\\PointerState.cs",
+              "ToolTip": "C:\\Users\\lizhe\\Desktop\\NTUT\\Windows Programming\\HW\\HW#2~7\\MyDrawing\\MyDrawing\\State\\PointerState.cs",
+              "RelativeToolTip": "MyDrawing\\State\\PointerState.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:45:49.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

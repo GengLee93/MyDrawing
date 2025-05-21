@@ -1,0 +1,12 @@
+C:\Users\lizhe\Desktop\NTUT\Windows Programming\HW\HW#2~6\MyDrawing\DrawingFormTests\bin\Debug\DrawingFormTests.dll
+C:\Users\lizhe\Desktop\NTUT\Windows Programming\HW\HW#2~6\MyDrawing\DrawingFormTests\bin\Debug\DrawingFormTests.pdb
+C:\Users\lizhe\Desktop\NTUT\Windows Programming\HW\HW#2~6\MyDrawing\DrawingFormTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lizhe\Desktop\NTUT\Windows Programming\HW\HW#2~6\MyDrawing\DrawingFormTests\bin\Debug\MyDrawing.exe
+C:\Users\lizhe\Desktop\NTUT\Windows Programming\HW\HW#2~6\MyDrawing\DrawingFormTests\bin\Debug\MyDrawing.pdb
+C:\Users\lizhe\Desktop\NTUT\Windows Programming\HW\HW#2~6\MyDrawing\DrawingFormTests\bin\Debug\MyDrawing.exe.config
+C:\Users\lizhe\Desktop\NTUT\Windows Programming\HW\HW#2~6\MyDrawing\DrawingFormTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\lizhe\Desktop\NTUT\Windows Programming\HW\HW#2~6\MyDrawing\DrawingFormTests\obj\Debug\DrawingFormTests.csproj.AssemblyReference.cache
+C:\Users\lizhe\Desktop\NTUT\Windows Programming\HW\HW#2~6\MyDrawing\DrawingFormTests\obj\Debug\DrawingFormTests.csproj.CoreCompileInputs.cache
+C:\Users\lizhe\Desktop\NTUT\Windows Programming\HW\HW#2~6\MyDrawing\DrawingFormTests\obj\Debug\DrawingF.EAA2DFD9.Up2Date
+C:\Users\lizhe\Desktop\NTUT\Windows Programming\HW\HW#2~6\MyDrawing\DrawingFormTests\obj\Debug\DrawingFormTests.dll
+C:\Users\lizhe\Desktop\NTUT\Windows Programming\HW\HW#2~6\MyDrawing\DrawingFormTests\obj\Debug\DrawingFormTests.pdb
